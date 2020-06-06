@@ -37,7 +37,7 @@ $ cat data.json
 
 #### Visualizing data with [flourish.studio](https://flourish.studio)
 
-Animated video: [density.mp4](https://github.com/brauli0/prime-numbers/blob/master/density.mp4)
+Animated video: [density.mp4](https://github.com/brauli0/prime-numbers/blob/master/density.mp4?raw=true)
 
 Screenshots:
 
